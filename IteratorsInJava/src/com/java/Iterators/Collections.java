@@ -6,7 +6,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class Collections {
 	
-	// pojo class for Employee
+	// Pojo class for Employee
 	
 	public static class Employee{
 		int id;
